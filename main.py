@@ -11,7 +11,7 @@ from ai import get_gemini_response
 keep_alive()
 
 logging.basicConfig(level=logging.INFO)
-bot = Bot(token='6730031202:AAFD9636Vb9Zbegl4xpjTsNUExLHTBzvJ9w')
+bot = Bot(token='YOUR-KEY')
 dp = Dispatcher()
 
 
